@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bread monster model
+* source:	https://sketchfab.com/3d-models/bread-monster-model-1a5dd20359f34b20ab572860a39db18a
+* author:	80S5 (https://sketchfab.com/80S5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bread monster model" (https://sketchfab.com/3d-models/bread-monster-model-1a5dd20359f34b20ab572860a39db18a) by 80S5 (https://sketchfab.com/80S5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
